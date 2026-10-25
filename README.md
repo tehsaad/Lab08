@@ -19,6 +19,7 @@ Average file size (KB): 800
 Total storage: 204,800,000 bytes
              = 200,000.00 KB
              = 195.31 MB
+             = 0.19 GB
 ```
 
 ## Author
