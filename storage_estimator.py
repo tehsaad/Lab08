@@ -9,6 +9,7 @@ def main():
     print(f"Total storage: {total_bytes:,.0f} bytes")
     print(f"             = {total_bytes / 1024:,.2f} KB")
     print(f"             = {total_bytes / 1024 ** 2:,.2f} MB")
+    print(f"             = {total_bytes / 1024 ** 3:,.2f} GB")
 
 
 if __name__ == "__main__":
